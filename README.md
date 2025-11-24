@@ -13,7 +13,7 @@ SNMP traps for app and hardware, and alarm forwarding to external NMS systems.
 ###  Key Components
 
 #### **Application Nodes**
-- **COL1** – Collector  
+- **COL1** – Collection 
 - **PAR1** – Parser  
 - **DRI1** – Distributor  
 Each node runs an EMS Agent responsible for:
